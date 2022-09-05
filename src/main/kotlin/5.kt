@@ -5,10 +5,10 @@ fun main(){
     println("USD" + " " + "or" + " " + "EUR")
     var b = readln()
 
-    convert(a,b)
+    println("qwert123451234512345")
 }
 fun convert(a: Int, b: String){
-    var Cusd = (40)
+    var Cusd = (41)
     var Ceur = (42)
     when(b){
         "USD" -> println(a * Cusd)
